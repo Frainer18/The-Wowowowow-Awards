@@ -1,0 +1,34 @@
+h2{
+    font-family: 'Kumar One Outline', cursive;
+    color: white;
+    }
+body{
+        text-align: center;
+        Background-color: black;
+        background-image: url(http://ct.glos.ac.uk/students/wp-content/uploads/sites/4/2015/05/4d652f1e19f27041527155c678442e02.jpg);
+        border: dashed blue;
+        border-radius: 05%;
+    }
+.Movies{
+        font-family: 'Allerta Stencil', sans-serif;
+        color: red;
+    }
+ol{
+    color: Yellow;
+    text-align: left;
+    }
+p{
+    Color: green;
+    }
+.Athlete{
+        font-family: 'Spicy Rice', cursive;
+        color: pink;
+    }
+.games{
+        font-family: 'Amatic SC', cursive;
+        color: purple;
+    }
+.Shows{
+        font-family: 'Fredoka One', cursive;
+        color: grey;
+    }
